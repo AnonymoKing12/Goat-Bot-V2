@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1721352799.157001,
+        "expirationDate": 1721379122.85327,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,24 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1gNfNEc99mq93IMTI.AWWvcDsT517xskKXG6mUkkNvCW8.BmIxlM..AAA.0.0.BmIxtf.AWVXvFq8OK0"
+        "value": "1kW9VpVEFcb3mZUn1.AWWkbutrIh92qrJNsyVO1GqlE5Y.BmI36G..AAA.0.0.BmI4Iy.AWVNZqEyJlQ"
+    },
+    {
+        "domain": ".www.facebook.com",
+        "expirationDate": 1748163132,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "m_ls",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "%7B%22100094315568259%22%3A%7B%22c%22%3A%7B%7D%2C%22d%22%3A%22735c2887-98aa-4e48-9ce3-1e5da15e16c2%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22n5qgc8%22%7D%7D"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1745112798.768731,
+        "expirationDate": 1745139122.203392,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,7 +62,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "38%3Aga-Lma5uZqCbKQ%3A2%3A1713576795%3A-1%3A311"
+        "value": "18%3A-YFoIRYZDqN3GQ%3A2%3A1713603119%3A-1%3A13672"
     },
     {
         "domain": ".facebook.com",
@@ -66,7 +79,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1745112798.768704,
+        "expirationDate": 1745139122.20332,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -75,7 +88,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "61552848419163"
+        "value": "100094315568259"
     },
     {
         "domain": ".facebook.com",
@@ -87,7 +100,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713576805640%2C%22v%22%3A1%7D"
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713603130403%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
@@ -117,7 +130,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1748136798.768538,
+        "expirationDate": 1748163122.203041,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -130,7 +143,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1714181603,
+        "expirationDate": 1714207931,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
