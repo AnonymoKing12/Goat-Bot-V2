@@ -27,7 +27,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1721346137.084885,
+        "expirationDate": 1721352799.157001,
         "hostOnly": false,
         "httpOnly": true,
         "name": "fr",
@@ -36,11 +36,11 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "1XgQeSeo08jhd0b1v.AWWZiyOd84oxxMAR1j6jiPx74W8.BmIwDG..AAA.0.0.BmIwFY.AWXxhPXRiCU"
+        "value": "1gNfNEc99mq93IMTI.AWWvcDsT517xskKXG6mUkkNvCW8.BmIxlM..AAA.0.0.BmIxtf.AWVXvFq8OK0"
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1745106136.34085,
+        "expirationDate": 1745112798.768731,
         "hostOnly": false,
         "httpOnly": true,
         "name": "xs",
@@ -49,7 +49,7 @@
         "secure": true,
         "session": false,
         "storeId": null,
-        "value": "29%3A3gS9DAlvytowWg%3A2%3A1713570133%3A-1%3A311"
+        "value": "38%3Aga-Lma5uZqCbKQ%3A2%3A1713576795%3A-1%3A311"
     },
     {
         "domain": ".facebook.com",
@@ -66,7 +66,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1745106136.340826,
+        "expirationDate": 1745112798.768704,
         "hostOnly": false,
         "httpOnly": false,
         "name": "c_user",
@@ -87,7 +87,7 @@
         "secure": true,
         "session": true,
         "storeId": null,
-        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713570142672%2C%22v%22%3A1%7D"
+        "value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713576805640%2C%22v%22%3A1%7D"
     },
     {
         "domain": ".facebook.com",
@@ -117,7 +117,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1748130136.340642,
+        "expirationDate": 1748136798.768538,
         "hostOnly": false,
         "httpOnly": true,
         "name": "sb",
@@ -130,7 +130,7 @@
     },
     {
         "domain": ".facebook.com",
-        "expirationDate": 1714174941,
+        "expirationDate": 1714181603,
         "hostOnly": false,
         "httpOnly": false,
         "name": "wd",
